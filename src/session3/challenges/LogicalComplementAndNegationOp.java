@@ -2,7 +2,7 @@ package session3.challenges;
 
 import java.util.Scanner;
 
-public class logicalComplementAndNegationOp {
+public class LogicalComplementAndNegationOp {
     public static void main(String[] args) {
 
         //Write a program to check if a number is positive or negative using logical complement operator.
@@ -31,5 +31,4 @@ public class logicalComplementAndNegationOp {
 
         scanner.close();
     }
-
 }

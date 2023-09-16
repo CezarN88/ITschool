@@ -1,6 +1,6 @@
 package session4.challenge;
 
-public class challenge3 {
+public class Challenge3 {
 
     //3. Write a Java program that declares an integer variable age with a value of 20. Print a statement saying "I am adult" if age is 18 or more, else print "I am not an adult".
 

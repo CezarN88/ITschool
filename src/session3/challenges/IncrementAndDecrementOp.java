@@ -2,7 +2,7 @@ package session3.challenges;
 
 import java.util.Scanner;
 
-public class incrementAndDecrementOp {
+public class IncrementAndDecrementOp {
     public static void main(String[] args) {
 
         // Write a Java program that uses both the increment (++) and decrement (--) operators in a loop to count up to 10 and then back down to 1

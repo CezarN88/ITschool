@@ -1,6 +1,6 @@
 package session4.challenge;
 
-public class challenge8 {
+public class Challenge8 {
 
     //8. Write a Java program to calculate the factorial of a number using a for loop. Declare an integer variable number and assign a value to it. Then calculate and print the factorial of number.
 
@@ -13,4 +13,3 @@ public class challenge8 {
         System.out.println("The factorial of " + number + " is " + factorial);
     }
 }
-

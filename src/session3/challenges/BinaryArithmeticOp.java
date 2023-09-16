@@ -2,7 +2,7 @@ package session3.challenges;
 
 import java.util.Scanner;
 
-public class binaryArithmeticOp {
+public class BinaryArithmeticOp {
     public static void main(String[] args) {
 
         //Write a Java program to take two numbers as input and display the result of addition, subtraction, multiplication, division, and modulus.

@@ -1,6 +1,6 @@
 package session3.challenges;
 
-public class numericPromotion {
+public class NumericPromotion {
     public static void main(String[] args) {
 
         //Write a program where you perform operations between an integer and a double. Display the result and discuss why it is in that format (due to Numeric Promotion).
@@ -17,6 +17,5 @@ public class numericPromotion {
         // byte3 = byte1 + byte2;
         //This error occurs because the result of adding two byte values is promoted to an int, and you cannot directly store an int into a byte variable byte.
         System.out.println("//byte3");
-
     }
 }

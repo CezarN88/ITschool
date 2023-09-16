@@ -3,7 +3,7 @@ package session3.challenges;
 import java.util.Scanner;
 
 
-public class assignmentAndCompoundOp {
+public class AssignmentAndCompoundOp {
     public static void main(String[] args) {
 
         //Create a Java program that demonstrates the use of each compound assignment operator with integers.
@@ -46,6 +46,5 @@ public class assignmentAndCompoundOp {
         price -= discountPercentage;
         System.out.println(price);
         scanner.close();
-
     }
 }

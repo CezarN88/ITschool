@@ -2,7 +2,7 @@ package session3.challenges;
 
 import java.util.Scanner;
 
-public class unaryOp {
+public class UnaryOp {
     public static void main(String[] args) {
 
         //Create a Java program where you increment and decrement the same variable. Display the value of the variable after each operation.
@@ -27,5 +27,4 @@ public class unaryOp {
         System.out.println(reversedNumber);
         scanner.close();
     }
-
 }
