@@ -11,7 +11,13 @@ public class Challenge4 {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter a string: ");
-        String inputString = scanner.nextLine();
 
+        String inputString = scanner.nextLine();
+        StringBuilder reversedString = new StringBuilder();
+        reversedString.append(inputString);
+        reversedString = reversedString.reverse();
+
+        System.out.println("Reversed string: " + reversedString.toString());
+        scanner.close();
     }
 }
