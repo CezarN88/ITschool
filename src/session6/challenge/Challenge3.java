@@ -18,3 +18,4 @@ public class Challenge3 {
         return stringBuilder.toString();
     }
 }
+
