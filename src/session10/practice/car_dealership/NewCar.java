@@ -11,9 +11,8 @@ public class NewCar extends Car{
         this.expirationDate = expirationDate;
     }
 
-    public String printExpirationDate() {
-        System.out.println(expirationDate);
-    }
+
+
 
     public LocalDate getExpirationDate() {
         return expirationDate;
