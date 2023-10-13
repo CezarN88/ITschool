@@ -1,0 +1,1 @@
+Create a list of 7 random integers. Develop a program that identifies and prints the smallest number from the list.
